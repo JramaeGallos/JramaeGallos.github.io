@@ -1,0 +1,15 @@
+h2 {
+  font: italic bold 20px/30px Courier New, serif;
+  padding-left: 0.75cm;
+  color: #008080;
+}
+
+p{
+  font: 18px/30px Courier New, serif;
+  padding-left: 2cm;
+  padding-right: 1cm;
+}
+
+body{
+  background-color: lightblue;
+}
